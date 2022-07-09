@@ -5,7 +5,8 @@ import HomePage from "./Components/HomePage/HomePage";
 import Navbar from "./Components/All codes/Navbar/Navbar";
 import NewItems from "./Components/NewItems/NewItems";
 import NotFound from "./Components/NotFound/NotFound";
-
+import "~bootstrap/scss/bootstrap";
+    
 function App() {
   return (
     <div className="App">
