@@ -1,0 +1,25 @@
+.NavbarTop{
+    background: #F8F8F8;
+    padding: 1%;
+    display:grid;
+    grid-template-columns: 1.5fr 1fr;
+}
+.Title {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.Title a{
+
+    text-decoration: none;
+}
+.Contacts{
+    display: block;
+}
+.Contacts a{
+    text-decoration: none;
+}
+Contents{
+    display: flex;
+}
